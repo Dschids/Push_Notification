@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380427447210",
+    "project_id": "mad-155-push-notification",
+    "storage_bucket": "mad-155-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380427447210:android:0424e8b0b3e6a2abc5d9d3",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDndEK_u8rBcliy8B2bxBYt8yshzOKKYhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

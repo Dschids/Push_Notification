@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Push Notification</string>
+    <string name="notification_txt">This is the notification App</string>
+</resources>
